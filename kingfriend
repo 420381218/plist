@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://traininge.xmiao.cn/TrainingE.ipa</string>
+					<string>http://jhq.app.testcf.com/ios/jinhuiqingV.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://traininge.xmiao.cn/TrainingE.jpg</string>
+					<string>http://jhq.app.testcf.com/ios/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
