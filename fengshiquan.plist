@@ -17,7 +17,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://ikeash.3tichina.com:8080/ikeash/i/ipadIcon.jpg</string>
+					<string>http://fsq.app.testcf.com/ios/RheumatismCirclePro.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -25,7 +25,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://ikeash.3tichina.com:8080/ikeash/i/iphoneIcon.jpg</string>
+					<string>http://fsq.app.testcf.com/ios/RheumatismCirclePro.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
