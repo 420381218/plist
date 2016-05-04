@@ -9,7 +9,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://fsq.app.testcf.com/ios/hcc2016.ipa</string>
+					<string>http://hcc.app.testcf.com/hcc2016.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -17,7 +17,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://fsq.app.testcf.com/ios/hcc2016.jpg</string>
+					<string>http://hcc.app.testcf.com/hcc2016.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -25,7 +25,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://fsq.app.testcf.com/ios/hcc2016.jpg</string>
+					<string>http://hcc.app.testcf.com/hcc2016.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
