@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://nike.testcf.com/app/nike2016.ipa</string>
+					<string>http://ios.unicorn.sh.cn/nike2016/nike2016.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://nike.testcf.com/app/nike2016.png</string>
+					<string>http://ios.unicorn.sh.cn/nike2016/nike2016.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
